@@ -104,7 +104,7 @@ d'utiliser max-width  , il peut être intéressant de recourir
 
 body
 {
-	background: url(images/nebula_body.jpg) repeat;
+	background: url(https://user-images.githubusercontent.com/81325578/117883745-11f01d80-b2ac-11eb-88c3-322208b67e06.jpg) repeat;
 	font-family:'Trebuchet MS', Arial, sans-serif;
 	color: white;
 }
@@ -132,7 +132,7 @@ dans le HTML)*/
 
 header
 {
-	background: url(images/futuristeheader.jpg) repeat;
+	background: url(https://user-images.githubusercontent.com/81325578/117882564-c25d2200-b2aa-11eb-998a-c4c7d15d28a3.jpg) repeat;
 	background-position: center;
 	display: flex;
 	justify-content: space-between;
@@ -225,7 +225,7 @@ posiiton absolue du nav dans le header */
     margin-top: 15px;
     height: 200px;
     border-radius: 5px;
-    background: url('images/sanfrancisco.jpg') center;
+    background: url('https://user-images.githubusercontent.com/81325578/117882539-bf623180-b2aa-11eb-92ab-57687cf1d602.jpg') center;
     position: relative;
     box-shadow: 0px 4px 4px #1c1a19;
     margin-bottom: 25px;
@@ -252,7 +252,7 @@ posiiton absolue du nav dans le header */
     position: absolute;
     right: 5px;
     bottom: 5px;
-    background: url('images/fond_degradebleu.png') repeat-x;
+    background: url('https://user-images.githubusercontent.com/81325578/117882560-c1c48b80-b2aa-11eb-96cf-9dc4c69e4338.png') repeat-x;
     border: 1px solid #760001;
     border-radius: 5px;
     font-size: 1.2em;
@@ -348,9 +348,9 @@ aside img
 footer 
 {
 	display:flex;
-	background: url('images/ico_top.png') no-repeat top center,
-	url('images/separateur.png') repeat-x top, 
-	url('images/ombre.png') repeat-x top;
+	background: url('https://user-images.githubusercontent.com/81325578/117882567-c2f5b880-b2aa-11eb-966b-0d338514e68c.png') no-repeat top center,
+	url('https://user-images.githubusercontent.com/81325578/117882546-bffac800-b2aa-11eb-9e76-4449a837ed91.png') repeat-x top, 
+	url('https://user-images.githubusercontent.com/81325578/117882574-c38e4f00-b2aa-11eb-8301-48772436368f.png') repeat-x top;
 	padding-top: 25px;
 }
 
@@ -399,7 +399,7 @@ footer h1
 
 #listes_amis ul
 {
-	list-style-image: url('images/pucejokermini2.png') ;
+	list-style-image: url('https://user-images.githubusercontent.com/81325578/117882533-bec99b00-b2aa-11eb-99a1-5c871c59a70c.png') ;
 
 /*A retravailler les puces quand le body seras définit */
 
