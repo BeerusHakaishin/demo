@@ -32,7 +32,7 @@ src: url('polices/ballpark/ballpark.woff') format ('woff');
 si la largeur de la fenêtre ne dépasse pas 1 024 px, 
 alors exécuter les règles CSS suivantes ».*/
 
-@media all and (max-device-width: 680px)
+@media all and (max-device-width: 300px)
 {
 	#bloc_page
 	{
